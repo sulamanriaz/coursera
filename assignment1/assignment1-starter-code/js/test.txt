@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 master
-=======
 sulaman checkin
->>>>>>> Sulaman
+khawaja
